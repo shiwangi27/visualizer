@@ -46961,7 +46961,7 @@
 					"spec": "0.9.6",
 					"type": "version"
 				},
-				"/Users/krbalmryde/Dropbox/Code-Projects/EVL/RemoteGL/visualizer/node_modules/paraviewweb"
+				"/home/ssingh79/Dev/visualizer/node_modules/paraviewweb"
 			]
 		],
 		"_from": "autobahn@0.9.6",
@@ -46990,7 +46990,7 @@
 		"_shasum": "51efec0cdb056872a1c698275260f67d7a3d32e3",
 		"_shrinkwrap": null,
 		"_spec": "autobahn@0.9.6",
-		"_where": "/Users/krbalmryde/Dropbox/Code-Projects/EVL/RemoteGL/visualizer/node_modules/paraviewweb",
+		"_where": "/home/ssingh79/Dev/visualizer/node_modules/paraviewweb",
 		"author": {
 			"name": "Tavendo GmbH"
 		},
@@ -62090,7 +62090,7 @@
 	              icon: _logo2.default,
 	              alt: 'ParaViewWeb Visualizer'
 	            }),
-	            'Visualizer'
+	            'TomoViz'
 	          ),
 	          _react2.default.createElement(_ControlPanel2.default, { className: this.state.menuVisible ? _MainView2.default.menu : _MainView2.default.hiddenMenu })
 	        ),
