@@ -46952,26 +46952,34 @@
 	module.exports = {
 		"_args": [
 			[
-				"autobahn@0.9.6",
-				"/Users/shiwangi/Documents/cs526/RemoteGL/visualizer/node_modules/paraviewweb"
+				{
+					"raw": "autobahn@0.9.6",
+					"scope": null,
+					"escapedName": "autobahn",
+					"name": "autobahn",
+					"rawSpec": "0.9.6",
+					"spec": "0.9.6",
+					"type": "version"
+				},
+				"/Users/krbalmryde/Dropbox/Code-Projects/EVL/RemoteGL/visualizer/node_modules/paraviewweb"
 			]
 		],
 		"_from": "autobahn@0.9.6",
 		"_id": "autobahn@0.9.6",
 		"_inCache": true,
-		"_installable": true,
 		"_location": "/autobahn",
 		"_npmUser": {
-			"email": "tobias.oberstein@tavendo.de",
-			"name": "oberstet"
+			"name": "oberstet",
+			"email": "tobias.oberstein@tavendo.de"
 		},
 		"_npmVersion": "1.3.21",
 		"_phantomChildren": {},
 		"_requested": {
-			"name": "autobahn",
 			"raw": "autobahn@0.9.6",
-			"rawSpec": "0.9.6",
 			"scope": null,
+			"escapedName": "autobahn",
+			"name": "autobahn",
+			"rawSpec": "0.9.6",
 			"spec": "0.9.6",
 			"type": "version"
 		},
@@ -46982,7 +46990,7 @@
 		"_shasum": "51efec0cdb056872a1c698275260f67d7a3d32e3",
 		"_shrinkwrap": null,
 		"_spec": "autobahn@0.9.6",
-		"_where": "/Users/shiwangi/Documents/cs526/RemoteGL/visualizer/node_modules/paraviewweb",
+		"_where": "/Users/krbalmryde/Dropbox/Code-Projects/EVL/RemoteGL/visualizer/node_modules/paraviewweb",
 		"author": {
 			"name": "Tavendo GmbH"
 		},
@@ -47006,10 +47014,10 @@
 		},
 		"homepage": "https://github.com/tavendo/AutobahnJS",
 		"keywords": [
-			"PubSub",
-			"RPC",
 			"WAMP",
-			"WebSocket"
+			"WebSocket",
+			"RPC",
+			"PubSub"
 		],
 		"license": "MIT",
 		"main": "index.js",
