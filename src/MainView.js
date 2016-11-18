@@ -52,7 +52,7 @@ export const Visualizer = React.createClass({
                 icon={logo}
                 alt="ParaViewWeb Visualizer"
               />
-              TomoViz Shingi TomoViz
+              TomoViz
             </div>
             <ControlPanel className={this.state.menuVisible ? style.menu : style.hiddenMenu} />
           </div>
