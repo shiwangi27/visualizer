@@ -57,7 +57,7 @@ function MAIN() {
     export DISPLAY=:0.0
 
     # Now for the magic
-    ${PARAVIEW}/bin/pvpython ${PARAVIEWWEB}/launcher.py ${PARAVIEW}/launcher.config
+    ${PARAVIEW}/bin/pvpython ${PARAVIEWWEB}/launcher.py ${TOMOVIZ}/launcher.config
 
 
 
